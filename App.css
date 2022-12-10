@@ -1,0 +1,11 @@
+.click:hover {
+  background: rgb(103, 151, 233);
+  border-radius:4px;
+ 
+}
+.click{
+  margin-left: 50%;
+  width: 100px;
+  height: 40px;
+  border-radius:4px;
+}
